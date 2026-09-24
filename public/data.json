@@ -1,0 +1,1202 @@
+[
+  {
+    "id": "HON-001",
+    "title": "Sundarban Raw Khalisha Flower Honey",
+    "sellerName": "Sundarban Organic Agro",
+    "category": "Raw & Unfiltered",
+    "price": {
+      "amount": 1850,
+      "currency": "BDT",
+      "perUnit": "1 kg",
+      "bulkDiscountPrice": 1650
+    },
+    "quantity": {
+      "netWeight": "1000g",
+      "moistureContent": "18%",
+      "minOrderQuantity": "1 Unit"
+    },
+    "location": {
+      "district": "Khulna",
+      "country": "Bangladesh",
+      "shippingOrigin": "Mongla Port Hub"
+    },
+    "quality": {
+      "grade": "A++ Super Premium",
+      "score": 96,
+      "purityPercentage": 99.8,
+      "tasteProfile": "Mildly Sweet & Floral"
+    },
+    "availability": {
+      "status": "In Stock",
+      "stockQuantity": 450,
+      "leadTimeDays": 2
+    },
+    "verification": {
+      "isVerifiedSeller": true,
+      "badge": "Source X Verified Platinum",
+      "labTested": true,
+      "certifications": ["BSTI Certified", "ISO 22000", "Organic Certified"]
+    },
+    "highlights": ["100% Wild Forest Harvest", "No Added Sugar", "Raw Unheated"]
+  },
+  {
+    "id": "HON-002",
+    "title": "Premium Mustard Flower Blossom Honey",
+    "sellerName": "Pabna Natural Bee Farm",
+    "category": "Monofloral",
+    "price": {
+      "amount": 750,
+      "currency": "BDT",
+      "perUnit": "1 kg",
+      "bulkDiscountPrice": 680
+    },
+    "quantity": {
+      "netWeight": "1000g",
+      "moistureContent": "19.5%",
+      "minOrderQuantity": "2 Units"
+    },
+    "location": {
+      "district": "Pabna",
+      "country": "Bangladesh",
+      "shippingOrigin": "Ishwardi Express Depot"
+    },
+    "quality": {
+      "grade": "A Grade",
+      "score": 88,
+      "purityPercentage": 97.5,
+      "tasteProfile": "Warm & Creamy Texture"
+    },
+    "availability": {
+      "status": "In Stock",
+      "stockQuantity": 1200,
+      "leadTimeDays": 1
+    },
+    "verification": {
+      "isVerifiedSeller": true,
+      "badge": "Source X Verified Gold",
+      "labTested": true,
+      "certifications": ["BSTI Certified"]
+    },
+    "highlights": ["Natural Crystallization", "Direct From Beekeepers"]
+  },
+  {
+    "id": "HON-003",
+    "title": "Organic Black Seed Blossom Honey (Kalo Jira)",
+    "sellerName": "Natore Bio Harvest",
+    "category": "Infused Monofloral",
+    "price": {
+      "amount": 1400,
+      "currency": "BDT",
+      "perUnit": "1 kg",
+      "bulkDiscountPrice": 1250
+    },
+    "quantity": {
+      "netWeight": "1000g",
+      "moistureContent": "17.8%",
+      "minOrderQuantity": "1 Unit"
+    },
+    "location": {
+      "district": "Natore",
+      "country": "Bangladesh",
+      "shippingOrigin": "Natore Sadar Warehouse"
+    },
+    "quality": {
+      "grade": "A+ Premium",
+      "score": 93,
+      "purityPercentage": 98.9,
+      "tasteProfile": "Rich Spicy & Herbal Notes"
+    },
+    "availability": {
+      "status": "In Stock",
+      "stockQuantity": 320,
+      "leadTimeDays": 3
+    },
+    "verification": {
+      "isVerifiedSeller": true,
+      "badge": "Source X Verified Gold",
+      "labTested": true,
+      "certifications": ["BSTI Certified", "GMP Certified"]
+    },
+    "highlights": ["High Medicinal Value", "Cold Extracted"]
+  },
+  {
+    "id": "HON-004",
+    "title": "Dinajpur Lychee Blossom Honey",
+    "sellerName": "Northern Orchard Apiaries",
+    "category": "Monofloral",
+    "price": {
+      "amount": 950,
+      "currency": "BDT",
+      "perUnit": "1 kg",
+      "bulkDiscountPrice": 880
+    },
+    "quantity": {
+      "netWeight": "1000g",
+      "moistureContent": "20.1%",
+      "minOrderQuantity": "1 Unit"
+    },
+    "location": {
+      "district": "Dinajpur",
+      "country": "Bangladesh",
+      "shippingOrigin": "Dinajpur Town Hub"
+    },
+    "quality": {
+      "grade": "A Grade",
+      "score": 85,
+      "purityPercentage": 96.2,
+      "tasteProfile": "Fruity & Refreshing Aroma"
+    },
+    "availability": {
+      "status": "In Stock",
+      "stockQuantity": 800,
+      "leadTimeDays": 2
+    },
+    "verification": {
+      "isVerifiedSeller": false,
+      "badge": "Standard Seller",
+      "labTested": true,
+      "certifications": ["Local Trade License"]
+    },
+    "highlights": ["Fresh Spring Harvest", "Aromatic Lychee Taste"]
+  },
+  {
+    "id": "HON-005",
+    "title": "Wild Forest Multi-Flora Honey",
+    "sellerName": "Sylhet Eco Organics",
+    "category": "Polyfloral Wild",
+    "price": {
+      "amount": 1600,
+      "currency": "BDT",
+      "perUnit": "1 kg",
+      "bulkDiscountPrice": 1450
+    },
+    "quantity": {
+      "netWeight": "1000g",
+      "moistureContent": "18.2%",
+      "minOrderQuantity": "1 Unit"
+    },
+    "location": {
+      "district": "Sylhet",
+      "country": "Bangladesh",
+      "shippingOrigin": "Sreemangal Bio Hub"
+    },
+    "quality": {
+      "grade": "A+ Premium",
+      "score": 91,
+      "purityPercentage": 98.4,
+      "tasteProfile": "Complex Earthy & Tangy"
+    },
+    "availability": {
+      "status": "Low Stock",
+      "stockQuantity": 45,
+      "leadTimeDays": 4
+    },
+    "verification": {
+      "isVerifiedSeller": true,
+      "badge": "Source X Verified Silver",
+      "labTested": true,
+      "certifications": ["BSTI Certified"]
+    },
+    "highlights": ["Harvested from Tea Estate Forests", "Deep Amber Color"]
+  },
+  {
+    "id": "HON-006",
+    "title": "Chittagong Hill Tracts Wild Bamboo Honey",
+    "sellerName": "Hill Natural Products Co.",
+    "category": "Wild Forest",
+    "price": {
+      "amount": 2200,
+      "currency": "BDT",
+      "perUnit": "1 kg",
+      "bulkDiscountPrice": 2000
+    },
+    "quantity": {
+      "netWeight": "1000g",
+      "moistureContent": "17.0%",
+      "minOrderQuantity": "1 Unit"
+    },
+    "location": {
+      "district": "Rangamati",
+      "country": "Bangladesh",
+      "shippingOrigin": "Chittagong Port Hub"
+    },
+    "quality": {
+      "grade": "A++ Rare Collection",
+      "score": 98,
+      "purityPercentage": 99.9,
+      "tasteProfile": "Dark Smoky & Bold"
+    },
+    "availability": {
+      "status": "Low Stock",
+      "stockQuantity": 20,
+      "leadTimeDays": 5
+    },
+    "verification": {
+      "isVerifiedSeller": true,
+      "badge": "Source X Verified Platinum",
+      "labTested": true,
+      "certifications": ["BSTI Certified", "US FDA Registered"]
+    },
+    "highlights": ["Rare Indigenous Harvest", "High Antioxidant Content"]
+  },
+  {
+    "id": "HON-007",
+    "title": "Pure Goran Flower Sundarban Honey",
+    "sellerName": "Coastal Honey Traders",
+    "category": "Raw Forest",
+    "price": {
+      "amount": 1700,
+      "currency": "BDT",
+      "perUnit": "1 kg",
+      "bulkDiscountPrice": 1500
+    },
+    "quantity": {
+      "netWeight": "1000g",
+      "moistureContent": "18.5%",
+      "minOrderQuantity": "1 Unit"
+    },
+    "location": {
+      "district": "Satkhira",
+      "country": "Bangladesh",
+      "shippingOrigin": "Satkhira Main Depot"
+    },
+    "quality": {
+      "grade": "A+ Premium",
+      "score": 92,
+      "purityPercentage": 98.1,
+      "tasteProfile": "Golden Sweet with Mild Aftertaste"
+    },
+    "availability": {
+      "status": "In Stock",
+      "stockQuantity": 280,
+      "leadTimeDays": 2
+    },
+    "verification": {
+      "isVerifiedSeller": true,
+      "badge": "Source X Verified Gold",
+      "labTested": true,
+      "certifications": ["BSTI Certified"]
+    },
+    "highlights": ["Traditional Mawali Harvest", "100% Unprocessed"]
+  },
+  {
+    "id": "HON-008",
+    "title": "Organic Coriander Flower Honey (Dhania)",
+    "sellerName": "Faridpur Agro Tech",
+    "category": "Monofloral",
+    "price": {
+      "amount": 850,
+      "currency": "BDT",
+      "perUnit": "1 kg",
+      "bulkDiscountPrice": 780
+    },
+    "quantity": {
+      "netWeight": "1000g",
+      "moistureContent": "19.0%",
+      "minOrderQuantity": "2 Units"
+    },
+    "location": {
+      "district": "Faridpur",
+      "country": "Bangladesh",
+      "shippingOrigin": "Faridpur Central Hub"
+    },
+    "quality": {
+      "grade": "A Grade",
+      "score": 87,
+      "purityPercentage": 97.0,
+      "tasteProfile": "Spicy Floral Tone"
+    },
+    "availability": {
+      "status": "In Stock",
+      "stockQuantity": 650,
+      "leadTimeDays": 2
+    },
+    "verification": {
+      "isVerifiedSeller": false,
+      "badge": "Standard Seller",
+      "labTested": false,
+      "certifications": ["Trade License"]
+    },
+    "highlights": ["Great Digestive Aid", "Light Amber Tone"]
+  },
+  {
+    "id": "HON-009",
+    "title": "New Zealand Manuka Honey UMF 15+",
+    "sellerName": "Global Gourmet Imports",
+    "category": "Medicinal Grade",
+    "price": {
+      "amount": 8500,
+      "currency": "BDT",
+      "perUnit": "500g",
+      "bulkDiscountPrice": 8000
+    },
+    "quantity": {
+      "netWeight": "500g",
+      "moistureContent": "16.5%",
+      "minOrderQuantity": "1 Unit"
+    },
+    "location": {
+      "district": "Auckland",
+      "country": "New Zealand (Imported)",
+      "shippingOrigin": "Dhaka Express Import Hub"
+    },
+    "quality": {
+      "grade": "A+++ Ultra Medical",
+      "score": 99,
+      "purityPercentage": 99.9,
+      "tasteProfile": "Earthy Herbal & Thick"
+    },
+    "availability": {
+      "status": "In Stock",
+      "stockQuantity": 85,
+      "leadTimeDays": 1
+    },
+    "verification": {
+      "isVerifiedSeller": true,
+      "badge": "Source X Verified Platinum",
+      "labTested": true,
+      "certifications": ["UMF Certified", "MPI New Zealand", "Halal Certified"]
+    },
+    "highlights": ["MGO 514+ Guaranteed", "High Antibacterial Power"]
+  },
+  {
+    "id": "HON-010",
+    "title": "Yemeni Royal Sidr Honey",
+    "sellerName": "Middle East Trade House",
+    "category": "Ultra Luxury Monofloral",
+    "price": {
+      "amount": 12500,
+      "currency": "BDT",
+      "perUnit": "1 kg",
+      "bulkDiscountPrice": 11800
+    },
+    "quantity": {
+      "netWeight": "1000g",
+      "moistureContent": "15.8%",
+      "minOrderQuantity": "1 Unit"
+    },
+    "location": {
+      "district": "Hadramout",
+      "country": "Yemen (Imported)",
+      "shippingOrigin": "Dhaka Air Cargo Terminal"
+    },
+    "quality": {
+      "grade": "A+++ Ultra Luxury",
+      "score": 100,
+      "purityPercentage": 100.0,
+      "tasteProfile": "Rich Caramel & Butterscotch"
+    },
+    "availability": {
+      "status": "Out of Stock",
+      "stockQuantity": 0,
+      "leadTimeDays": 10
+    },
+    "verification": {
+      "isVerifiedSeller": true,
+      "badge": "Source X Verified Platinum",
+      "labTested": true,
+      "certifications": ["Yemeni Ministry Cert", "SGS Tested"]
+    },
+    "highlights": ["Harvested from Ancient Sidr Trees", "Top Tier Medicinal Honey"]
+  },
+  {
+    "id": "HON-011",
+    "title": "Organic Acacia Honey (Imported)",
+    "sellerName": "European Organics BD",
+    "category": "Monofloral Clear",
+    "price": {
+      "amount": 3200,
+      "currency": "BDT",
+      "perUnit": "1 kg",
+      "bulkDiscountPrice": 2950
+    },
+    "quantity": {
+      "netWeight": "1000g",
+      "moistureContent": "17.2%",
+      "minOrderQuantity": "1 Unit"
+    },
+    "location": {
+      "district": "Sofia",
+      "country": "Bulgaria (Imported)",
+      "shippingOrigin": "Chittagong Port Warehouse"
+    },
+    "quality": {
+      "grade": "A++ Premium",
+      "score": 95,
+      "purityPercentage": 99.2,
+      "tasteProfile": "Very Mild & Delicate Sweetness"
+    },
+    "availability": {
+      "status": "In Stock",
+      "stockQuantity": 150,
+      "leadTimeDays": 2
+    },
+    "verification": {
+      "isVerifiedSeller": true,
+      "badge": "Source X Verified Gold",
+      "labTested": true,
+      "certifications": ["EU Organic Certified", "BSTI Certified"]
+    },
+    "highlights": ["Slow to Crystallize", "Ideal for Diabetics (Low GI)"]
+  },
+  {
+    "id": "HON-012",
+    "title": "Barguna Coastal Sundarban Honey",
+    "sellerName": "Southern Hive Collective",
+    "category": "Raw Mangrove",
+    "price": {
+      "amount": 1650,
+      "currency": "BDT",
+      "perUnit": "1 kg",
+      "bulkDiscountPrice": 1520
+    },
+    "quantity": {
+      "netWeight": "1000g",
+      "moistureContent": "18.8%",
+      "minOrderQuantity": "1 Unit"
+    },
+    "location": {
+      "district": "Barguna",
+      "country": "Bangladesh",
+      "shippingOrigin": "Barishal Transit Hub"
+    },
+    "quality": {
+      "grade": "A Grade",
+      "score": 89,
+      "purityPercentage": 97.8,
+      "tasteProfile": "Slightly Salty Sweet Finish"
+    },
+    "availability": {
+      "status": "In Stock",
+      "stockQuantity": 210,
+      "leadTimeDays": 3
+    },
+    "verification": {
+      "isVerifiedSeller": true,
+      "badge": "Source X Verified Silver",
+      "labTested": true,
+      "certifications": ["BSTI Certified"]
+    },
+    "highlights": ["Unique Mangrove Mineral Profile", "Unprocessed Raw"]
+  },
+  {
+    "id": "HON-013",
+    "title": "Comilla Plum Blossom Honey (Kul Phul)",
+    "sellerName": "Eastern Agro Products",
+    "category": "Monofloral",
+    "price": {
+      "amount": 1100,
+      "currency": "BDT",
+      "perUnit": "1 kg",
+      "bulkDiscountPrice": 980
+    },
+    "quantity": {
+      "netWeight": "1000g",
+      "moistureContent": "19.2%",
+      "minOrderQuantity": "1 Unit"
+    },
+    "location": {
+      "district": "Comilla",
+      "country": "Bangladesh",
+      "shippingOrigin": "Comilla EPZ Route"
+    },
+    "quality": {
+      "grade": "A Grade",
+      "score": 86,
+      "purityPercentage": 96.8,
+      "tasteProfile": "Sweet with Sour Plum Aftertaste"
+    },
+    "availability": {
+      "status": "In Stock",
+      "stockQuantity": 390,
+      "leadTimeDays": 2
+    },
+    "verification": {
+      "isVerifiedSeller": false,
+      "badge": "Standard Seller",
+      "labTested": true,
+      "certifications": ["BSTI Applied"]
+    },
+    "highlights": ["Winter Harvested", "Rich Golden Hue"]
+  },
+  {
+    "id": "HON-014",
+    "title": "Raw Wild Comb Honey with Frame",
+    "sellerName": "Panchagarh Bee Sanctuary",
+    "category": "Comb Honey",
+    "price": {
+      "amount": 2500,
+      "currency": "BDT",
+      "perUnit": "1.2 kg",
+      "bulkDiscountPrice": 2300
+    },
+    "quantity": {
+      "netWeight": "1200g (With Beeswax Comb)",
+      "moistureContent": "17.5%",
+      "minOrderQuantity": "1 Frame"
+    },
+    "location": {
+      "district": "Panchagarh",
+      "country": "Bangladesh",
+      "shippingOrigin": "Tetulia Express Hub"
+    },
+    "quality": {
+      "grade": "A++ Raw Natural",
+      "score": 97,
+      "purityPercentage": 100.0,
+      "tasteProfile": "Unmodified Pure Honeycomb"
+    },
+    "availability": {
+      "status": "Low Stock",
+      "stockQuantity": 15,
+      "leadTimeDays": 4
+    },
+    "verification": {
+      "isVerifiedSeller": true,
+      "badge": "Source X Verified Platinum",
+      "labTested": true,
+      "certifications": ["BSTI Certified", "Organic Certified"]
+    },
+    "highlights": ["Eat directly with Edible Beeswax", "100% Unprocessed"]
+  },
+  {
+    "id": "HON-015",
+    "title": "Organic Nigella Sativa Honey Jar (500g)",
+    "sellerName": "BioPure Bangladesh",
+    "category": "Retail Glass Jar",
+    "price": {
+      "amount": 780,
+      "currency": "BDT",
+      "perUnit": "500g",
+      "bulkDiscountPrice": 720
+    },
+    "quantity": {
+      "netWeight": "500g",
+      "moistureContent": "18.0%",
+      "minOrderQuantity": "2 Jars"
+    },
+    "location": {
+      "district": "Dhaka",
+      "country": "Bangladesh",
+      "shippingOrigin": "Tejgaon Industrial Zone"
+    },
+    "quality": {
+      "grade": "A+ Standard Retail",
+      "score": 90,
+      "purityPercentage": 98.0,
+      "tasteProfile": "Herbal & Naturally Sweet"
+    },
+    "availability": {
+      "status": "In Stock",
+      "stockQuantity": 1500,
+      "leadTimeDays": 1
+    },
+    "verification": {
+      "isVerifiedSeller": true,
+      "badge": "Source X Verified Gold",
+      "labTested": true,
+      "certifications": ["BSTI Certified", "ISO 9001"]
+    },
+    "highlights": ["Export Quality Glass Packaging", "Tamper Proof Seal"]
+  },
+  {
+    "id": "HON-016",
+    "title": "Tangail Mustard Flower Commercial Honey (Bulk Barrel)",
+    "sellerName": "Tangail Agro Traders",
+    "category": "B2B Commercial Bulk",
+    "price": {
+      "amount": 15000,
+      "currency": "BDT",
+      "perUnit": "25 kg Barrel",
+      "bulkDiscountPrice": 13800
+    },
+    "quantity": {
+      "netWeight": "25000g (25kg)",
+      "moistureContent": "19.8%",
+      "minOrderQuantity": "1 Barrel"
+    },
+    "location": {
+      "district": "Tangail",
+      "country": "Bangladesh",
+      "shippingOrigin": "Elenga Truck Terminal"
+    },
+    "quality": {
+      "grade": "B+ Commercial Grade",
+      "score": 82,
+      "purityPercentage": 95.5,
+      "tasteProfile": "Standard Sweet Mustard Tone"
+    },
+    "availability": {
+      "status": "In Stock",
+      "stockQuantity": 50,
+      "leadTimeDays": 3
+    },
+    "verification": {
+      "isVerifiedSeller": true,
+      "badge": "Source X Verified Silver",
+      "labTested": true,
+      "certifications": ["BSTI Wholesale Permit"]
+    },
+    "highlights": ["Ideal for Food Factories & Repackers", "Food Grade Barrel"]
+  },
+  {
+    "id": "HON-017",
+    "title": "Sherpur Wild Hill Forest Honey",
+    "sellerName": "Garo Hills Natural",
+    "category": "Wild Organic",
+    "price": {
+      "amount": 1950,
+      "currency": "BDT",
+      "perUnit": "1 kg",
+      "bulkDiscountPrice": 1800
+    },
+    "quantity": {
+      "netWeight": "1000g",
+      "moistureContent": "17.9%",
+      "minOrderQuantity": "1 Unit"
+    },
+    "location": {
+      "district": "Sherpur",
+      "country": "Bangladesh",
+      "shippingOrigin": "Nalitabari Eco Hub"
+    },
+    "quality": {
+      "grade": "A+ Premium",
+      "score": 94,
+      "purityPercentage": 98.7,
+      "tasteProfile": "Floral & Earthy Blend"
+    },
+    "availability": {
+      "status": "Low Stock",
+      "stockQuantity": 35,
+      "leadTimeDays": 3
+    },
+    "verification": {
+      "isVerifiedSeller": true,
+      "badge": "Source X Verified Gold",
+      "labTested": true,
+      "certifications": ["BSTI Certified"]
+    },
+    "highlights": ["Harvested Near Garo Hill Reserve", "Dark Amber Color"]
+  },
+  {
+    "id": "HON-018",
+    "title": "Wild Honey infused with Sundarban Propolis",
+    "sellerName": "Sundarban Health Labs",
+    "category": "Infused Functional",
+    "price": {
+      "amount": 2800,
+      "currency": "BDT",
+      "perUnit": "500g",
+      "bulkDiscountPrice": 2550
+    },
+    "quantity": {
+      "netWeight": "500g",
+      "moistureContent": "16.8%",
+      "minOrderQuantity": "1 Unit"
+    },
+    "location": {
+      "district": "Khulna",
+      "country": "Bangladesh",
+      "shippingOrigin": "Khulna City Warehouse"
+    },
+    "quality": {
+      "grade": "A++ Functional",
+      "score": 97,
+      "purityPercentage": 99.5,
+      "tasteProfile": "Pungent Herbal Resin Taste"
+    },
+    "availability": {
+      "status": "In Stock",
+      "stockQuantity": 110,
+      "leadTimeDays": 2
+    },
+    "verification": {
+      "isVerifiedSeller": true,
+      "badge": "Source X Verified Platinum",
+      "labTested": true,
+      "certifications": ["BSTI Certified", "ISO 22000", "GMP Certified"]
+    },
+    "highlights": ["Immunity Boosting Formulation", "Contains 5% Bee Propolis Extract"]
+  },
+  {
+    "id": "HON-019",
+    "title": "Jessore Sesame Blossom Honey (Til Phul)",
+    "sellerName": "Southwest Bee Farm",
+    "category": "Monofloral",
+    "price": {
+      "amount": 900,
+      "currency": "BDT",
+      "perUnit": "1 kg",
+      "bulkDiscountPrice": 820
+    },
+    "quantity": {
+      "netWeight": "1000g",
+      "moistureContent": "19.1%",
+      "minOrderQuantity": "1 Unit"
+    },
+    "location": {
+      "district": "Jessore",
+      "country": "Bangladesh",
+      "shippingOrigin": "Jessore Express Hub"
+    },
+    "quality": {
+      "grade": "A Grade",
+      "score": 84,
+      "purityPercentage": 96.0,
+      "tasteProfile": "Nutty & Sweet"
+    },
+    "availability": {
+      "status": "In Stock",
+      "stockQuantity": 520,
+      "leadTimeDays": 2
+    },
+    "verification": {
+      "isVerifiedSeller": false,
+      "badge": "Standard Seller",
+      "labTested": false,
+      "certifications": ["Local Trade License"]
+    },
+    "highlights": ["Nutritious Summer Crop Honey", "Medium Amber"]
+  },
+  {
+    "id": "HON-020",
+    "title": "Spanish Forest Heather Honey (Imported)",
+    "sellerName": "EuroFood Trading BD",
+    "category": "Imported Gourmet",
+    "price": {
+      "amount": 4200,
+      "currency": "BDT",
+      "perUnit": "1 kg",
+      "bulkDiscountPrice": 3900
+    },
+    "quantity": {
+      "netWeight": "1000g",
+      "moistureContent": "17.1%",
+      "minOrderQuantity": "1 Unit"
+    },
+    "location": {
+      "district": "Madrid",
+      "country": "Spain (Imported)",
+      "shippingOrigin": "Dhaka Express Hub"
+    },
+    "quality": {
+      "grade": "A++ Gourmet",
+      "score": 96,
+      "purityPercentage": 99.1,
+      "tasteProfile": "Strong Malty & Slightly Bitter"
+    },
+    "availability": {
+      "status": "In Stock",
+      "stockQuantity": 60,
+      "leadTimeDays": 1
+    },
+    "verification": {
+      "isVerifiedSeller": true,
+      "badge": "Source X Verified Platinum",
+      "labTested": true,
+      "certifications": ["EU Organic Certified", "BSTI Clearance"]
+    },
+    "highlights": ["High Mineral & Iron Content", "Thick Gel Texture"]
+  },
+  {
+    "id": "HON-021",
+    "title": "Rajshahi Mango Blossom Honey",
+    "sellerName": "Green Mango Apiaries",
+    "category": "Monofloral Seasonal",
+    "price": {
+      "amount": 1300,
+      "currency": "BDT",
+      "perUnit": "1 kg",
+      "bulkDiscountPrice": 1180
+    },
+    "quantity": {
+      "netWeight": "1000g",
+      "moistureContent": "18.9%",
+      "minOrderQuantity": "1 Unit"
+    },
+    "location": {
+      "district": "Rajshahi",
+      "country": "Bangladesh",
+      "shippingOrigin": "Rajshahi Airport Express"
+    },
+    "quality": {
+      "grade": "A Grade",
+      "score": 88,
+      "purityPercentage": 97.2,
+      "tasteProfile": "Sweet Citrus & Mango Undertone"
+    },
+    "availability": {
+      "status": "Out of Stock",
+      "stockQuantity": 0,
+      "leadTimeDays": 7
+    },
+    "verification": {
+      "isVerifiedSeller": true,
+      "badge": "Source X Verified Silver",
+      "labTested": true,
+      "certifications": ["BSTI Certified"]
+    },
+    "highlights": ["Spring Special Harvest", "Limited Seasonal Edition"]
+  },
+  {
+    "id": "HON-022",
+    "title": "Infused Honey with Organic Ginger & Lemon",
+    "sellerName": "NutriLife Organics",
+    "category": "Flavored Wellness",
+    "price": {
+      "amount": 950,
+      "currency": "BDT",
+      "perUnit": "400g",
+      "bulkDiscountPrice": 880
+    },
+    "quantity": {
+      "netWeight": "400g",
+      "moistureContent": "18.4%",
+      "minOrderQuantity": "2 Jars"
+    },
+    "location": {
+      "district": "Dhaka",
+      "country": "Bangladesh",
+      "shippingOrigin": "Uttara Logistics Hub"
+    },
+    "quality": {
+      "grade": "A Grade",
+      "score": 89,
+      "purityPercentage": 95.0,
+      "tasteProfile": "Zesty Tangy & Warm Ginger"
+    },
+    "availability": {
+      "status": "In Stock",
+      "stockQuantity": 850,
+      "leadTimeDays": 1
+    },
+    "verification": {
+      "isVerifiedSeller": true,
+      "badge": "Source X Verified Gold",
+      "labTested": true,
+      "certifications": ["BSTI Certified", "HACCP Certified"]
+    },
+    "highlights": ["Ready Immunity Drink Base", "Real Natural Slices inside"]
+  },
+  {
+    "id": "HON-023",
+    "title": "Mymensingh Mustard & Wild Mixed Honey",
+    "sellerName": "Brahmaputra Valley Bee Farm",
+    "category": "Polyfloral",
+    "price": {
+      "amount": 680,
+      "currency": "BDT",
+      "perUnit": "1 kg",
+      "bulkDiscountPrice": 600
+    },
+    "quantity": {
+      "netWeight": "1000g",
+      "moistureContent": "21.0%",
+      "minOrderQuantity": "2 Units"
+    },
+    "location": {
+      "district": "Mymensingh",
+      "country": "Bangladesh",
+      "shippingOrigin": "Mymensingh Town Depot"
+    },
+    "quality": {
+      "grade": "B Grade",
+      "score": 78,
+      "purityPercentage": 94.0,
+      "tasteProfile": "Standard Sweet Everyday Honey"
+    },
+    "availability": {
+      "status": "In Stock",
+      "stockQuantity": 1800,
+      "leadTimeDays": 2
+    },
+    "verification": {
+      "isVerifiedSeller": false,
+      "badge": "Standard Seller",
+      "labTested": false,
+      "certifications": ["Local Trade License"]
+    },
+    "highlights": ["Budget Friendly Value Pack", "Great for Baking"]
+  },
+  {
+    "id": "HON-024",
+    "title": "Organic Raw Buckwheat Honey",
+    "sellerName": "Himalayan Naturals BD",
+    "category": "Dark Monofloral",
+    "price": {
+      "amount": 2600,
+      "currency": "BDT",
+      "perUnit": "1 kg",
+      "bulkDiscountPrice": 2400
+    },
+    "quantity": {
+      "netWeight": "1000g",
+      "moistureContent": "17.4%",
+      "minOrderQuantity": "1 Unit"
+    },
+    "location": {
+      "district": "Panchagarh",
+      "country": "Bangladesh",
+      "shippingOrigin": "Panchagarh Hub"
+    },
+    "quality": {
+      "grade": "A+ Premium",
+      "score": 93,
+      "purityPercentage": 98.6,
+      "tasteProfile": "Robust Molasses-like Sweetness"
+    },
+    "availability": {
+      "status": "In Stock",
+      "stockQuantity": 90,
+      "leadTimeDays": 3
+    },
+    "verification": {
+      "isVerifiedSeller": true,
+      "badge": "Source X Verified Gold",
+      "labTested": true,
+      "certifications": ["BSTI Certified", "Organic Standard"]
+    },
+    "highlights": ["Extremely Rich in Iron", "Darkest Honey Specimen"]
+  },
+  {
+    "id": "HON-025",
+    "title": "Australian Jarrah Honey TA 35+",
+    "sellerName": "Global Gourmet Imports",
+    "category": "Active Superfood",
+    "price": {
+      "amount": 9800,
+      "currency": "BDT",
+      "perUnit": "500g",
+      "bulkDiscountPrice": 9200
+    },
+    "quantity": {
+      "netWeight": "500g",
+      "moistureContent": "15.5%",
+      "minOrderQuantity": "1 Unit"
+    },
+    "location": {
+      "district": "Perth",
+      "country": "Australia (Imported)",
+      "shippingOrigin": "Dhaka Cargo Express"
+    },
+    "quality": {
+      "grade": "A+++ Medical Grade",
+      "score": 99,
+      "purityPercentage": 99.9,
+      "tasteProfile": "Smooth Nutty Smooth Caramel"
+    },
+    "availability": {
+      "status": "In Stock",
+      "stockQuantity": 40,
+      "leadTimeDays": 1
+    },
+    "verification": {
+      "isVerifiedSeller": true,
+      "badge": "Source X Verified Platinum",
+      "labTested": true,
+      "certifications": ["Total Antimicrobial 35+", "Australian Certified Organic"]
+    },
+    "highlights": ["Super High Bio-activity", "Low Glucose Content"]
+  },
+  {
+    "id": "HON-026",
+    "title": "Sreemangal Wild Flower Honey Bucket (5 kg)",
+    "sellerName": "Sylhet Eco Organics",
+    "category": "Bulk Family Pack",
+    "price": {
+      "amount": 7200,
+      "currency": "BDT",
+      "perUnit": "5 kg Bucket",
+      "bulkDiscountPrice": 6600
+    },
+    "quantity": {
+      "netWeight": "5000g (5kg)",
+      "moistureContent": "18.3%",
+      "minOrderQuantity": "1 Bucket"
+    },
+    "location": {
+      "district": "Sylhet",
+      "country": "Bangladesh",
+      "shippingOrigin": "Sylhet Depot"
+    },
+    "quality": {
+      "grade": "A Grade Bulk",
+      "score": 90,
+      "purityPercentage": 98.0,
+      "tasteProfile": "Earthy & Sweet Floral"
+    },
+    "availability": {
+      "status": "In Stock",
+      "stockQuantity": 120,
+      "leadTimeDays": 2
+    },
+    "verification": {
+      "isVerifiedSeller": true,
+      "badge": "Source X Verified Silver",
+      "labTested": true,
+      "certifications": ["BSTI Certified"]
+    },
+    "highlights": ["Food Grade 5KG Bucket", "Economical Commercial Pack"]
+  },
+  {
+    "id": "HON-027",
+    "title": "Raw Honey Squeeze Pods (10g x 30 Sachets)",
+    "sellerName": "PocketHoney BD",
+    "category": "On-The-Go Snacks",
+    "price": {
+      "amount": 650,
+      "currency": "BDT",
+      "perUnit": "300g (30 Pods)",
+      "bulkDiscountPrice": 580
+    },
+    "quantity": {
+      "netWeight": "300g Total",
+      "moistureContent": "18.0%",
+      "minOrderQuantity": "1 Box"
+    },
+    "location": {
+      "district": "Dhaka",
+      "country": "Bangladesh",
+      "shippingOrigin": "Mirpur Logistics Hub"
+    },
+    "quality": {
+      "grade": "A Grade Retail",
+      "score": 88,
+      "purityPercentage": 97.5,
+      "tasteProfile": "Pure Sweet Mustard & Kalo Jira"
+    },
+    "availability": {
+      "status": "In Stock",
+      "stockQuantity": 2000,
+      "leadTimeDays": 1
+    },
+    "verification": {
+      "isVerifiedSeller": true,
+      "badge": "Source X Verified Gold",
+      "labTested": true,
+      "certifications": ["BSTI Certified"]
+    },
+    "highlights": ["Mess-free Travel Squeezers", "Great Energy Booster for Athletes"]
+  },
+  {
+    "id": "HON-028",
+    "title": "Kushhtia Sunflower Blossom Honey",
+    "sellerName": "Lalon Land Agro",
+    "category": "Monofloral",
+    "price": {
+      "amount": 820,
+      "currency": "BDT",
+      "perUnit": "1 kg",
+      "bulkDiscountPrice": 750
+    },
+    "quantity": {
+      "netWeight": "1000g",
+      "moistureContent": "19.4%",
+      "minOrderQuantity": "1 Unit"
+    },
+    "location": {
+      "district": "Kushtia",
+      "country": "Bangladesh",
+      "shippingOrigin": "Kushtia Express Hub"
+    },
+    "quality": {
+      "grade": "A Grade",
+      "score": 85,
+      "purityPercentage": 96.5,
+      "tasteProfile": "Bright Golden & Light Sweet"
+    },
+    "availability": {
+      "status": "In Stock",
+      "stockQuantity": 430,
+      "leadTimeDays": 2
+    },
+    "verification": {
+      "isVerifiedSeller": false,
+      "badge": "Standard Seller",
+      "labTested": true,
+      "certifications": ["Trade License"]
+    },
+    "highlights": ["High Pollen Count", "Bright Yellow Hue"]
+  },
+  {
+    "id": "HON-029",
+    "title": "Sundarban Bain Flower Honey",
+    "sellerName": "Sundarban Organic Agro",
+    "category": "Mangrove Wild",
+    "price": {
+      "amount": 1750,
+      "currency": "BDT",
+      "perUnit": "1 kg",
+      "bulkDiscountPrice": 1600
+    },
+    "quantity": {
+      "netWeight": "1000g",
+      "moistureContent": "18.1%",
+      "minOrderQuantity": "1 Unit"
+    },
+    "location": {
+      "district": "Khulna",
+      "country": "Bangladesh",
+      "shippingOrigin": "Mongla Port Hub"
+    },
+    "quality": {
+      "grade": "A+ Premium",
+      "score": 93,
+      "purityPercentage": 98.5,
+      "tasteProfile": "Mild Saltiness with Rich Blossom Flavor"
+    },
+    "availability": {
+      "status": "In Stock",
+      "stockQuantity": 310,
+      "leadTimeDays": 2
+    },
+    "verification": {
+      "isVerifiedSeller": true,
+      "badge": "Source X Verified Platinum",
+      "labTested": true,
+      "certifications": ["BSTI Certified", "ISO 22000"]
+    },
+    "highlights": ["Pure Mangrove Nectar", "Non-pasteurized Raw"]
+  },
+  {
+    "id": "HON-030",
+    "title": "Organic Raw Honey Infused with Natural Cinnamon",
+    "sellerName": "BioPure Bangladesh",
+    "category": "Flavored Herbal",
+    "price": {
+      "amount": 890,
+      "currency": "BDT",
+      "perUnit": "500g",
+      "bulkDiscountPrice": 820
+    },
+    "quantity": {
+      "netWeight": "500g",
+      "moistureContent": "17.8%",
+      "minOrderQuantity": "1 Unit"
+    },
+    "location": {
+      "district": "Dhaka",
+      "country": "Bangladesh",
+      "shippingOrigin": "Tejgaon Industrial Zone"
+    },
+    "quality": {
+      "grade": "A+ Premium",
+      "score": 91,
+      "purityPercentage": 97.8,
+      "tasteProfile": "Aromatic Ceylon Cinnamon Spice"
+    },
+    "availability": {
+      "status": "In Stock",
+      "stockQuantity": 620,
+      "leadTimeDays": 1
+    },
+    "verification": {
+      "isVerifiedSeller": true,
+      "badge": "Source X Verified Gold",
+      "labTested": true,
+      "certifications": ["BSTI Certified", "ISO 9001"]
+    },
+    "highlights": ["Infused with Real Ceylon Cinnamon", "Great for Weight Management"]
+  }
+]
