@@ -236,7 +236,7 @@ export default function CompareProduct() {
       ====================================================== */}
 
       <nav className="border-b border-default-200">
-        <div className="mx-auto flex w-11/12 items-center justify-between gap-8 py-5">
+        <div className="mx-auto flex max-sm:flex-col w-11/12 items-center justify-between gap-8 py-5">
           {/* Logo */}
 
           <div className="shrink-0 text-xl font-bold text-white">
@@ -246,7 +246,7 @@ export default function CompareProduct() {
 
           {/* Search */}
 
-          <div className="flex flex-1 items-center justify-end">
+          <div className="flex max-sm:flex-col flex-1 items-center justify-end">
             <div className="relative w-full max-w-2xl">
               <SearchField
                 name="product-search"
@@ -366,12 +366,12 @@ export default function CompareProduct() {
 
             <Separator
               orientation="vertical"
-              className="mx-4 h-10 bg-gray-500"
+              className="mx-4 h-10 bg-gray-500 max-sm:hidden"
             />
 
             {/* Buttons */}
 
-            <div className="flex shrink-0 gap-3">
+            <div className="flex shrink-0 gap-3 max-sm:mt-4">
               <Button variant="outline" className="rounded-lg">
                 Sign In
               </Button>
